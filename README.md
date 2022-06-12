@@ -1,7 +1,7 @@
 <div align="center">
 	<p>
 		<a target="_blank" href="https://github.com/Fastxyz/BSRPC" title="BSRPC">
-			<img src="https://i.imgur.com/Qz4vUoT.png" width="256" alt="BSRPC">
+			<img src="https://i.imgur.com/Qz4vUoT.png" width="256" alt="BSRPC" draggable="false">
 		</a>
 	</p>
 </div>
@@ -16,7 +16,7 @@
 
 ## **🖼️ Preview:**
 
-<img alt="Discord RPC" src="https://i.imgur.com/j7KBUW9.png">
+<img src="https://i.imgur.com/j7KBUW9.png" alt="Discord RPC" draggable="false">
 
 <hr>
 
@@ -31,7 +31,7 @@
 
 1. Open **Brawl Stars** and follow the steps to get your Tag:
 
-  <img alt="Brawl Stars Player Tag" src="https://i.imgur.com/ti9pCkz.gif">
+  <img src="https://i.imgur.com/ti9pCkz.gif" alt="Brawl Stars Player Tag" draggable="false">
 
 2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Brawl Stars player tag.
 3. Go to the [Brawl Stars API Dashboard](https://developer.brawlstars.com) and create an account or log in to your account.
