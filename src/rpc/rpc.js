@@ -71,7 +71,7 @@ const rpc = async function setActivity(client) {
 				assets: {
 					large_image: 'logo',
 					large_text: `BSRPC v${version}`,
-					small_image: `${player.icon.id}`,
+					small_image: `https://cdn.brawlify.com/profile/${player.icon.id}.png`,
 					small_text: `${player.name} (${player.tag})`
 				},
 				buttons: [
